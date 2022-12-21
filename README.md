@@ -16,7 +16,7 @@ Quoi de mieux que le fidele Ablette pour arpenter un réseau !
 Alette is a simple network scanner that also tests open ports for each connected machine.
 Ablette est un simple scanner de réseau qui teste également les ports ouverts pour chaque machine connectée.
 
-Compatible Debian & Windows & Android
+Compatible Debian, Windows & Android
 
 version de python utilisée : 
 sur windows : 3.11.1
