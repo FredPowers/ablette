@@ -176,7 +176,7 @@ def conf_IP():
     # Get total hosts
     global net
     net = ipaddress.ip_network(network1)
-    nb_host1 = net.num_addresses
+    nb_host1 = net.num_addresses - 2
     nb_host = str(nb_host1)
 
     # Obtenir la première et la dernière adresse du réseau
